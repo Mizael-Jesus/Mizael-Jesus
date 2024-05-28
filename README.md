@@ -44,7 +44,7 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42px" title="EXPRESS"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42px" title="ANGULARJS"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42px" title="REACT"  /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42px" title="SASS"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42px" title="DOCKER"  /></code>
 
 </br>
 </br>
