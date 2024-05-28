@@ -12,23 +12,6 @@
 ## Hello, Devs!!
 
 Graduated in Systems, postgraduate in Project Management, passionate about technology and always learning. :nerd_face: :computer:
-<!--
-###
-
-<h3 align="left">Statistics</h3>
-
-###
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zero-Zero-Um&show_icons=true&theme=transparent&bg_color=00000000" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zero-Zero-Um&layout=compact&langs_count=8&card_width=320" />
-</a>
--->
-<!--
-https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
--->
 
 </br>
 </br>
@@ -63,14 +46,3 @@ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 
 </br>
 </br>
-
-<!--
-
-##
-<p align="center">
-<a href="https://github.com/Zero-Zero-Um">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zero-Zero-Um&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zero-Zero-Um&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
--->
