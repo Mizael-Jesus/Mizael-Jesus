@@ -27,6 +27,7 @@ Graduated in Systems, postgraduate in Project Management, passionate about techn
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48px" title="DOCKER"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48px" title="PRISMA"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48px" title="POSTGRESQL"></code>
+<code><img src="https://static.cdnlogo.com/logos/c/98/cockroachdb.svg" width="48px" title="COCKROACHDB"></code>
 <code><img src="https://avatars.githubusercontent.com/u/5547849?s=200&amp;v=4" width="48px" title="ARANGO DB"></code>
 </br>
 </br>
