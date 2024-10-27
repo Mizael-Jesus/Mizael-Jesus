@@ -31,11 +31,11 @@ Graduated in Systems, postgraduate in Project Management, passionate about techn
 <code><img src="https://avatars.githubusercontent.com/u/5547849?s=200&amp;v=4" width="48px" title="ARANGO DB"></code>
 </br>
 </br>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="48px" title="GRPC"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48px" title="GRAPHQL"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48px" title="SWAGGER"  /></code>
 </br>
 </br>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="48px" title="GRPC"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48px" title="JEST"  /></code>
 </br>
 </br>
