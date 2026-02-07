@@ -11,36 +11,32 @@ Graduated in Systems, postgraduate in Project Management, passionate about techn
 ### 🖥️ Main tools and technologies: 
 
 </br>
+</br>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" title="JAVASCRIPT"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48px" title="TYPESCRIPT"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48px" title="GOLANG" /></code>
+</br>
+</br>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48px" title="C#"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48px" title="DOT NET CORE"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48px" title="DOT NET"  /></code>
 </br>
 </br>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" title="JAVASCRIPT"  /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48px" title="TYPESCRIPT"  /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48px" title="NODEJS"  /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48px" title="EXPRESS" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48px" title="NESTJS"  /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48px" title="ANGULARJS"  /></code>
-</br>
-</br>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48px" title="PRISMA"  /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48px" title="MICROSOFT SQL SERVER"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48px" title="POSTGRESQL"></code>
 <code><img src="https://static.cdnlogo.com/logos/c/98/cockroachdb.svg" width="48px" title="COCKROACHDB"></code>
 <code><img src="https://avatars.githubusercontent.com/u/5547849?s=200&amp;v=4" width="48px" title="ARANGO DB"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="48px" title="NEO4J"/></code>
-
-
-       
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48px" title="MICROSOFT SQL SERVER"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48px" title="PRISMA"  /></code>
+   
 
           
 
 
 </br>
 </br>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="48px" title="GRPC"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48px" title="GRAPHQL"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="48px" title="GRPC"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48px" title="SWAGGER"  /></code>
 </br>
 </br>
@@ -48,8 +44,8 @@ Graduated in Systems, postgraduate in Project Management, passionate about techn
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="48px" title="OPEN TELEMETRY"  /></code>
 </br>
 </br>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48px" title="DOCKER"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48px" title="KUBERNETES"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48px" title="DOCKER"  /></code>
 
 
 </br>
