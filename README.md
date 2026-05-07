@@ -40,6 +40,8 @@ Graduated in Systems, postgraduate in Project Management, passionate about techn
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48px" title="SWAGGER"  /></code>
 </br>
 </br>
+<i class="devicons devicons-vitest"></i>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" width="48px" title="VITEST"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48px" title="JEST"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="48px" title="OPEN TELEMETRY"  /></code>
 </br>
