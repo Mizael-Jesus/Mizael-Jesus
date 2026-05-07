@@ -24,8 +24,8 @@ Graduated in Systems, postgraduate in Project Management, passionate about techn
 </br>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48px" title="POSTGRESQL"></code>
 <code><img src="https://static.cdnlogo.com/logos/c/98/cockroachdb.svg" width="48px" title="COCKROACHDB"></code>
-<code><img src="https://avatars.githubusercontent.com/u/5547849?s=200&amp;v=4" width="48px" title="ARANGO DB"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="48px" title="NEO4J"/></code>
+<code><img src="https://devicons.io/devicons/icons/arangodb.svg" width="48px" title="ARANGODB"  /></code>
+<code><img src="https://devicons.io/devicons/icons/neo4j.svg" width="48px" title="NEO4J"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48px" title="MICROSOFT SQL SERVER"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48px" title="PRISMA"  /></code>
    
@@ -40,9 +40,8 @@ Graduated in Systems, postgraduate in Project Management, passionate about techn
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48px" title="SWAGGER"  /></code>
 </br>
 </br>
-<i class="devicons devicons-vitest"></i>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" width="48px" title="VITEST"  /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48px" title="JEST"  /></code>
+<code><img src="https://devicons.io/devicons/icons/vitest.svg" width="48px" title="VITEST"  /></code>
+<code><img src="https://devicons.io/devicons/icons/jest.svg" width="48px" title="JEST"  /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="48px" title="OPEN TELEMETRY"  /></code>
 </br>
 </br>
